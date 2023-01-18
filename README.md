@@ -2,6 +2,8 @@
 
 We are going to create a laravel , vue3 and inertiaJS project
 
+Requires composer, php, node and npm already installed
+
 Install Laravel by running the command composer create-project --prefer-dist laravel/laravel "projectname" in your terminal. This will create a new Laravel project in a directory called "projectname".
 
 Install the Vue 3.0 package by running the command composer require laravel/jetstream in your terminal.
